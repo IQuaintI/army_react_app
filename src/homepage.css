@@ -1,0 +1,25 @@
+html {
+    background-color: #f1f1f1;
+   box-sizing: border-box;
+}
+
+.header {
+    padding: 3vh;
+    text-align: center;
+    background: white;
+    font-size: 2vh
+}
+
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 1vh;
+    padding: 1vh;
+}
+
+.grid-button { 
+    
+
+}
+  

@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# The Army WebStudy Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
 
-## Available Scripts
+This is a project devoted to creating a website that will display multiple sources of information regarding the Army.
 
-In the project directory, you can run:
+The Army already has their own website and massive databases of information, but this project is meant to be a more user-friendly and accessible version of that information.
 
-### `npm start`
+Furthermore, this is a project to test the skills of the developer and to create a portfolio piece.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Wish us luck!
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Requirements
 
-### `npm test`
+- Create a homepage that will have a list of the information that we want to house and links to each category.
+- Create pages that will display the information regarding the category that was selected.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Potentials
 
-### `npm run build`
+- Create a flashcard page that will display flashcards that will help with studying for the Army's promotion boards.
+- Create an interactive map that will allow for the user to click on a point and have information about that point displayed. This is designed to assist with land navigation.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Design
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- The webpage background color has yet to be determined, but the native white is too bright so that will at least be dialed back (potentially gray or dark blue).
+-Create intuitive navigation that will allow for the user to easily find the information they are looking for.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Implementation
 
-### `npm run eject`
+- This whole affair should use HTML, CSS, and JavaScript.
+- Libraries might be imported to help with the design and functionality of the website.
+  
+## Links
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- The website is currently being hosted on GitHub Pages and can be found [here](https://github.com/IQuaintI/Army-WebStudy).
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
